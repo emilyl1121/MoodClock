@@ -1,6 +1,2 @@
-title: moodclock v1<br>
-author: Emily Lin<br>
-description: <br>
-created_at: "2025-06-12"<br>
+## title: MoodClock<br> author: Emily Lin <br>Description: <br> Start Date:2025-06-12
 ---
-ssssssss
