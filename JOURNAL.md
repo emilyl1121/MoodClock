@@ -22,3 +22,7 @@ For now, my working table looks like this:
 I know that there may be a lot of mistakes and that it might be completely wrong, but I am trying my best to consult the internet and GPT.
 
 <br>total time spent: 2 hrs
+
+---
+## 2025-6-25: BOM
+I started on the BOM list and some organizers to help me figure out how to do the schematic better since I feel like im lacking something.
