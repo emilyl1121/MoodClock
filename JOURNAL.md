@@ -26,3 +26,9 @@ I know that there may be a lot of mistakes and that it might be completely wrong
 ---
 ## 2025-6-25: BOM
 I started on the BOM list and some organizers to help me figure out how to do the schematic better since I feel like im lacking something.
+
+---
+## 2025-6-26
+I did research on the parts and changed some of my components! I am now using these parts shown in the schematic. The schematic is going alright for now, but I still have to figure out how to use resistors and transistors.. etc. Right now it looks like this:
+![image](https://github.com/user-attachments/assets/697444b2-b5e6-4f83-a5cc-1b4453db29c4)
+
