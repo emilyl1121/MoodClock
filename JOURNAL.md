@@ -41,4 +41,6 @@ I renewed all my parts and I switched the microcontroller to a arduino nano beca
 <img width="1163" height="570" alt="image" src="https://github.com/user-attachments/assets/b0089ed0-b2cd-4f5d-a69a-609444ff27d9" />
 <img width="1105" height="705" alt="image" src="https://github.com/user-attachments/assets/bcdd9b02-136e-4de6-aff5-0c9d7808c8b6" />
 
+also, I drew a new sketch and planned out how the case/ layout of the components:
+<insert image here>
 <br> total time spent: 3 hrs
