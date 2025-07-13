@@ -27,8 +27,18 @@ I know that there may be a lot of mistakes and that it might be completely wrong
 ## 2025-6-25: BOM
 I started on the BOM list and some organizers to help me figure out how to do the schematic better since I feel like im lacking something.
 
+<br>total time spent: 1 hrs
+
 ---
 ## 2025-6-26
 I did research on the parts and changed some of my components! I am now using these parts shown in the schematic. The schematic is going alright for now, but I still have to figure out how to use resistors and transistors.. etc. Right now it looks like this:
 ![image](https://github.com/user-attachments/assets/697444b2-b5e6-4f83-a5cc-1b4453db29c4)
 
+<br> total time spent: 2hrs
+---
+## 2025-7-13: Schematic, again.
+I renewed all my parts and I switched the microcontroller to a arduino nano because it's a beginner friendly one and i happen to have some at home. I made my own footprints and symbols in KiCAD because I cannot find the exact versions on the internet. I also finished my final schematic design and moved onto the PCB! Hopefully I won't have to change the whole thing all over again.
+<img width="1163" height="570" alt="image" src="https://github.com/user-attachments/assets/b0089ed0-b2cd-4f5d-a69a-609444ff27d9" />
+<img width="1105" height="705" alt="image" src="https://github.com/user-attachments/assets/bcdd9b02-136e-4de6-aff5-0c9d7808c8b6" />
+
+<br> total time spent: 3 hrs
