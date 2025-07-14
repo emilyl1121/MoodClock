@@ -49,7 +49,7 @@ also, I drew a new sketch and planned out how the case/ layout of the components
 ---
 ## 2025-7-14: PCB design done!!!
 I finished my PCB wiring and ordered my components! While waiting for them to come, I started on my case CAD design and therefore have to finish my PCB first. Here's a look on my PCB wiring. I am proud of my progress, even though it took me an unreasonable amount of time to finish this simple wiring. 
-
+ <img width="759" height="546" alt="螢幕擷取畫面 2025-07-14 181205" src="https://github.com/user-attachments/assets/208adf5c-69db-48fa-a690-a1290335339f" />
 I am thinking of adding a button for some purpose, but I haven't add them into the PCB layout. I will probably have to redo all the wiring once it is done. 
 
 <br> total time spent: 4 hrs
