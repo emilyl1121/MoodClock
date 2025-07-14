@@ -35,6 +35,7 @@ I did research on the parts and changed some of my components! I am now using th
 ![image](https://github.com/user-attachments/assets/697444b2-b5e6-4f83-a5cc-1b4453db29c4)
 
 <br> total time spent: 2hrs
+
 ---
 ## 2025-7-13: Schematic, again.
 I renewed all my parts and I switched the microcontroller to a arduino nano because it's a beginner friendly one and i happen to have some at home. I made my own footprints and symbols in KiCAD because I cannot find the exact versions on the internet. I also finished my final schematic design and moved onto the PCB! Hopefully I won't have to change the whole thing all over again.
@@ -44,3 +45,12 @@ I renewed all my parts and I switched the microcontroller to a arduino nano beca
 also, I drew a new sketch and planned out how the case/ layout of the components:
 <insert image here>
 <br> total time spent: 3 hrs
+
+---
+## 2025-7-14: PCB design done!!!
+I finished my PCB wiring and ordered my components! While waiting for them to come, I started on my case CAD design and therefore have to finish my PCB first. Here's a look on my PCB wiring. I am proud of my progress, even though it took me an unreasonable amount of time to finish this simple wiring. 
+
+I am thinking of adding a button for some purpose, but I haven't add them into the PCB layout. I will probably have to redo all the wiring once it is done. 
+
+<br> total time spent: 4 hrs
+---
